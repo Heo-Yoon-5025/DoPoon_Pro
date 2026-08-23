@@ -15,6 +15,6 @@ HELP.md
 *.iml
 *.ipr
 ### Frontend (React / Vite) ###
-frontend/node_modules
-frontend/dist
-frontend/.vite
+front_react/node_modules
+front_react/dist
+front_react/.vite
